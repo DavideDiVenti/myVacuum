@@ -18,10 +18,12 @@ A noter que le rendu final du projet n'aurait pas pu etre possible sans l'utilis
 * L'utilisateur peut ensuite copier cette chaine et l'introduire dans le code de son microcontroleur.
 * Le code du microcontroleur interpretera cette chaine hexadécimale ou binaire afin de créer des objets de classe respectif à chaque chaine (icone d'un ventilateur, d'un termomètre, d'un buzzer, ...). 
 * La classe pourra ensuite proposer divers méthodes afin d'afficher les pixels sur l'écran correspondant à l'objet en question.
-Ce processis permet notamment de créer des animations de plusieurs frames d'un meme objet :
+
+Ce processus permet notamment de créer des animations de plusieurs frames d'un meme objet :
 <p align="left">
   <img align="center" width="80%" src="https://github.com/DavideDiVenti/myVacuum/blob/main/Documents/Images/Pixel_To_Hex_Converter.gif" />
 </p>
+Le logiciel est disponible depuis ce lien :
 
 ## Le répertoire [*Documents*](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents)
 Divers documents sont situés dans ce répertoire [Documents](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents). Des informations supplémentaires s'y trouvent :
