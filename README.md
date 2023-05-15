@@ -6,3 +6,15 @@ Blabla
 
 ## Le répertoire [*myVacuumCode*](https://github.com/DavideDiVenti/myVacuum/tree/main/myVacuumCode)
 Blabla
+
+## Le répertoire [*Documents*]
+Blabla
+
+### Contenu
+Blabla
+
+## Youtube
+Blabla
+
+### Contenu
+Blabla
