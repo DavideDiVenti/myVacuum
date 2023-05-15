@@ -17,7 +17,7 @@ A noter que le rendu final du projet n'aurait pas pu etre possible sans l'utilis
 * A chaque interraction le logiciel exporte l'image sous forme d'une chaine hexadécimale et/ou binaire. 
 * L'utilisateur peut ensuite copier cette chaine et l'introduire dans le code de son microcontroleur.
 * Le code du microcontroleur interpretera cette chaine hexadécimale ou binaire afin de créer des objets de classe respectif à chaque chaine (icone d'un ventilateur, d'un termomètre, d'un buzzer, ...). 
-* La classe pourra ensuite proposer divers méthodes afin d'afficher les pixels sur l'écran correspondant à l'objet en question.
+* La [classe](https://github.com/DavideDiVenti/myVacuum/blob/main/myVacuumCode/myClass_DrawOnTheScreen.cpp) pourra ensuite proposer divers méthodes afin d'afficher les pixels sur l'écran correspondant à l'objet en question.
 
 Ce processus permet notamment de créer des animations de plusieurs frames d'un meme objet :
 <p align="left">
@@ -28,11 +28,11 @@ Le logiciel est disponible depuis ce lien :
 ## Le répertoire [*Documents*](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents)
 Divers documents sont situés dans ce répertoire [Documents](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents). Des informations supplémentaires s'y trouvent :
 * Un dossier [Impressions_3D](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents/Impressions_3D) contenant l'entièreté des fichiers d'impression au format stl. 
-* Un dossier [Images](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents/Images) contenant quelques aperçuts finaux du projet (PCB, Mécanique, Schémas, ...)
+* Un dossier [Images](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents/Images) contenant quelques aperçuts finaux du projet (PCB, Mécanique, Schémas, ...).
 * Un fichier [Rapport]() correspondant au rapport du projet sous le format pdf. Dedans se trouve l'entièreté du contenu (schémas, développements techniques, ...) ainsi qu'un tableau des pinouts de l'ESP32.
 
 ## Youtube
-Il est toujours plus ludique d'observer le projet sous forme de vidéos :
+Il est toujours plus ludique d'observer le projet sous forme de vidéos.
 
 ### Démonstration du projet :
 Dans cette vidéo, l'aspirateur aspire plusieurs type de déchets (copeaux d'aluminium, terre, copeaux de bois, ...).
