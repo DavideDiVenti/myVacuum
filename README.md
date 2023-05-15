@@ -23,7 +23,7 @@ Ce processus permet notamment de créer des animations de plusieurs frames d'un 
 <p align="left">
   <img align="center" width="80%" src="https://github.com/DavideDiVenti/myVacuum/blob/main/Documents/Images/Pixel_To_Hex_Converter.gif" />
 </p>
-Le logiciel est disponible depuis ce lien :
+Le logiciel est disponible depuis ce lien : https://davidediventi.github.io/PixelToHexConverter/
 
 ## Le répertoire [*Documents*](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents)
 Divers documents sont situés dans ce répertoire [Documents](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents). Des informations supplémentaires s'y trouvent :
