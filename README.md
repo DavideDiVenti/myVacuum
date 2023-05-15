@@ -11,6 +11,7 @@ Blabla
 ## Le répertoire [*Documents*]
 Divers documents sont situés dans ce répertoire. Des informations supplémentaires s'y trouvent :
 * Un dossier [impressions_3D] contenant l'entièreté des fichiers d'impression au format stl. 
+* Un dossier [Images](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents/Images) contenant quelques aperçuts finaux du projet (PCB, Mécanique, Schémas, ...)
 * Un fichier [Rapport] correspondant au rapport du projet sous le format pdf. Dedans se trouve l'entièreté du contenu (schémas, développements techniques, ...) ainsi qu'un tableau des pinouts de l'ESP32.
 
 ## Youtube
