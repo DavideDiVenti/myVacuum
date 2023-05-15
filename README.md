@@ -6,7 +6,7 @@ Le rendu 3D du projet peut etre directement visionné en cliquant sur [ce lien h
 Blabla
 
 ## Le répertoire [*myVacuumCode*](https://github.com/DavideDiVenti/myVacuum/tree/main/myVacuumCode)
-Blabla
+L'aspirateur intègre le microcontrôleur ESP32. Le code développé assemble tous les périphériques de l'aspirateur (voir [Rapport]()).
 
 ## Le répertoire [*Documents*](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents)
 Divers documents sont situés dans ce répertoire. Des informations supplémentaires s'y trouvent :
