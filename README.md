@@ -9,7 +9,7 @@ L'utilisateur peut contrôler l'aspirateur à partir d'une interface utilisateur
 
 ## Le répertoire [*myVacuumCode*](https://github.com/DavideDiVenti/myVacuum/tree/main/myVacuumCode)
 ### Code du microcontroleur
-L'aspirateur intègre le microcontrôleur ESP32. Les codes téléversés sont dans le répertoire [myVacuumCode](https://github.com/DavideDiVenti/myVacuum/tree/main/myVacuumCode). Ce-dernier assemble tous les périphériques de l'aspirateur (voir [Rapport]()) afin de centraliser le tout.
+L'aspirateur intègre le microcontrôleur ESP32. Les codes téléversés sont dans le répertoire [myVacuumCode](https://github.com/DavideDiVenti/myVacuum/tree/main/myVacuumCode). Ce-dernier assemble tous les périphériques de l'aspirateur (voir [Rapport](https://github.com/DavideDiVenti/myVacuum/blob/main/Documents/Rapport.pdf)) afin de centraliser le tout.
 
 ### Design de l'écran
 A noter que le rendu final du projet n'aurait pas pu etre possible sans l'utilisation d'un logiciel en particulier. Ce logiciel est un ancien projet que j'ai développé expressément pour l'aspirateur : 
@@ -29,7 +29,7 @@ Le logiciel est disponible depuis ce lien : https://davidediventi.github.io/Pixe
 Divers documents sont situés dans ce répertoire [Documents](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents). Des informations supplémentaires s'y trouvent :
 * Un dossier [Impressions_3D](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents/Impressions_3D) contenant l'entièreté des fichiers d'impression au format stl. 
 * Un dossier [Images](https://github.com/DavideDiVenti/myVacuum/tree/main/Documents/Images) contenant quelques aperçuts finaux du projet (PCB, Mécanique, Schémas, ...).
-* Un fichier [Rapport]() correspondant au rapport du projet sous le format pdf. Dedans se trouve l'entièreté du contenu (schémas, développements techniques, ...) ainsi qu'un tableau des pinouts de l'ESP32.
+* Un fichier [Rapport](https://github.com/DavideDiVenti/myVacuum/blob/main/Documents/Rapport.pdf) correspondant au rapport du projet sous le format pdf. Dedans se trouve l'entièreté du contenu (schémas, développements techniques, ...) ainsi qu'un tableau des pinouts de l'ESP32.
 
 ## Youtube
 Il est toujours plus ludique d'observer le projet sous forme de vidéos.
