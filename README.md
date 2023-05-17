@@ -36,3 +36,5 @@ Il est toujours plus ludique d'observer le projet sous forme de vidéos.
 
 ### Démonstration du projet :
 Dans cette vidéo, l'aspirateur aspire plusieurs type de déchets (copeaux d'aluminium, terre, copeaux de bois, ...).
+
+Vidéo postée prochainement...
